@@ -1,0 +1,56 @@
+﻿body#layout{
+	background-color:#fff;
+	border:none;
+}
+body#layout div#main-blog-section{
+	background:#ff753f;
+	border:none;
+}
+body#layout .locked-widget .widget-content,body#layout div.section{
+	border-radius:10px;
+	border:none;
+}
+body#layout:after{
+	content: &quot;
+	Copyrights @ widiyanata.com&quot;;
+}
+#layout body#layout div#sidebar-rightedt{
+	float:right;
+	width:25%;
+}
+body#layout div#sidebar-left{
+	background-color:#555;
+}
+#layout .col-content{
+	width: 65%;
+	float:left;
+}
+#layout div#sidebar-rightedt{
+	float: left;
+	width: 35%;
+}
+body#layout:after{
+	font-size: 14px;
+	padding: 14.5px 0;
+	float: left;
+	background: #fff;
+	color: #555;
+	font-family: open sans;
+	width: 100%;z-index: 100;
+	position: relative;
+	border-top: 1px solid #d2d2d2;
+}
+#layout div#sidebar::before{
+	font-size: 30px;
+	padding: 14.5px 0;
+	float: left;
+	color: #fb7a09;
+	width: 100%;
+	z-index: 100;
+	position: relative;
+	margin-bottom: 20px;
+}
+#layout div#sidebar::before{
+	content: &quot;
+	Admin Panel&quot;;
+}
