@@ -1,0 +1,21 @@
+#information-list{
+	margin: 12px 0;
+}
+#information-list ul{
+	list-style: none;
+}
+#information-list ul li{
+	margin: 17px 0 !important;
+}
+#information-list ul li a{
+	background: #fff;
+	color: #f76b61;
+	padding: 4px 7px;
+	text-decoration: none;
+	border: 1px solid #eeeeee;
+	border-radius: 6px;
+}
+#information-list ul li a:hover{
+	background:#fff;
+	color: #20b2aa;
+}
