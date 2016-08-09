@@ -1,0 +1,43 @@
+#category-modal{
+	margin: 12px auto;
+	text-align:center;
+}
+#category-modal ul li{
+	display:inline;
+	margin:0 12px;
+}
+#category-modal ul li a{
+	display:inline-block;
+	background:#ccc;
+	color:#fff;
+	border-radius:4px;
+	padding:12px 20px;
+	text-decoration: none;
+}
+#category-modal ul li a:hover{
+	background:#1ebeb4;
+	color:#fff  !important;
+}
+.modal-list{
+	display: inline-block;
+}
+.modal_categorylist{
+	text-align: left;
+}
+.modal_categorylist ul{
+	list-style: none;
+}
+.quote-area1{
+	font-style: italic;
+	margin: 0 0 12px 0;
+}
+.quote-style{
+	text-align: left;
+}
+.authorname-style{
+	text-align: right;
+}
+.quote-area2{
+	font-style: italic;
+	margin: 0;
+}
