@@ -96,6 +96,7 @@ Github: https://github.com/vadimsva/popModal
 
 /* hintModal */
 .hintModal {position:relative;overflow:visible;transform:translateZ(0);backface-visibility:hidden;z-index:1; color: #f76b61;}
+.hintModal a:hover{color: #20b2aa;}
 .hintModal .hintModal_container {display:none;left:0;margin:0;position:absolute;background:#F6F6EB/*#F8F4E1*/;padding:15px;border:1px solid #B4A984;box-shadow:0 2px 6px rgba(0,0,0,0.3);opacity:0;text-align:justify;max-width:500px;min-width:500px;z-index:1;line-height:16px;border-radius:4px;font-size:13px;font-weight:300;font-family:font-family:'Open Sans','Noto Sans JP',serif;font-style:initial;margin-top:6px;color:#333;top:100%;box-sizing:border-box;text-decoration:initial;text-transform:initial}
 .hintModal .hintModal_container:before,
 .hintModal .hintModal_container:after {content:'';position:absolute;border:6px solid transparent;border-top-width:0;border-bottom-color:#B4A984;top:-6px;left:6px}
