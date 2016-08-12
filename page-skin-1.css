@@ -2527,7 +2527,7 @@ header #nav-search{
 	color:#20b2aa;
 }
 #search-holder{
-	display:inline;
+	display:none;
 	width:100%;
 	float:right;
 }
