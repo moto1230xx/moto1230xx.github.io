@@ -2488,7 +2488,7 @@ img{
 }
 #header-holder{
 	margin-bottom:15px;
-	border-bottom:1px solid #e1e2e3;
+	/*border-bottom:1px solid #e1e2e3;*/
 }
 header{
 	padding:15px 0;
