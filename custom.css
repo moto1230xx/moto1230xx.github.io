@@ -32,3 +32,11 @@ h2.sub-headline{
 	text-align: center;
 	margin: 30px 0;
 }
+.interview{
+	text-align: center;
+	margin: 4px 0 30px;
+}
+.emphasis{
+	font-weight: bpld;
+	margin: 7px 0;
+}
