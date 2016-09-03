@@ -39,4 +39,5 @@ h2.sub-headline{
 .emphasis{
 	font-weight: bold;
 	margin: 7px 0 0;
+	font-size: 15px;
 }
