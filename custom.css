@@ -78,7 +78,7 @@ h2.favorite{
 	border-bottom: 1px solid #EEEEEE;
 	margin-bottom: 4px;
 }
-ul.favorite-item{
+.favorite-item{
 	text-align: right;
 	list-style: none;
 }
