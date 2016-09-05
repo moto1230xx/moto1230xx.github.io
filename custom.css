@@ -70,3 +70,15 @@ ul.idealist{
 	text-align: right;
 	list-style: none;
 }
+h2.favorite{
+	font-weight: 100;
+	font-size: 15px;
+	color: #787878;
+	padding: 8px 0;
+	border-bottom: 1px solid #EEEEEE;
+	margin-bottom: 4px;
+}
+ul.favorite-item{
+	text-align: right;
+	list-style: none;
+}
