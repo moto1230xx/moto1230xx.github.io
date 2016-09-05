@@ -81,4 +81,5 @@ h2.favorite{
 .favorite-item{
 	text-align: right;
 	list-style: none;
+	margin-bottom: 8px;
 }
