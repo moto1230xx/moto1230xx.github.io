@@ -80,6 +80,10 @@ h2.favorite{
 }
 .favorite-item{
 	text-align: right;
+	margin-bottom: 10px;
+}
+ul.favorite-itemlist{
+	text-align: right;
 	list-style: none;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 }
