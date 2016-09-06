@@ -82,3 +82,14 @@ h2.favorite{
 	text-align: right;
 	margin-bottom: 23px;
 }
+h2.region{
+	font-weight: 100;
+	font-size: 17px;
+	color: #787878;
+	padding: 8px 0;
+	border-bottom: 1px solid #EEEEEE;
+	margin-bottom: 4px;
+}
+.example{
+	margin-bottom: 20px;
+}
