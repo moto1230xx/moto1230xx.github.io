@@ -93,8 +93,8 @@ h2.region{
 .example{
 	margin-bottom: 20px;
 }
-.post-script{
-	font-weight: 100;
+.postscript{
+	font-weight: bold;
 	font-size: 15px;
 	color: #787878;
 	padding: 8px 0;
