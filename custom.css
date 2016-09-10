@@ -103,3 +103,11 @@ h2.region{
 .chemicals-list{
 	margin-top: 30px;
 }
+h2.daily-life{
+	font-weight: 100;
+	font-size: 17px;
+	color: #787878;
+	padding: 8px 0;
+	border-bottom: 1px solid #EEEEEE;
+	margin-bottom: 4px;
+}
