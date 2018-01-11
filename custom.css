@@ -154,9 +154,10 @@ blockquote:after{
     margin: 10px 0;
     z-index: 3;
     line-height: 1.7;
+}
+blockquote p{
     font-size: 13px;
 }
-
 blockquote cite {
     display: block;
     text-align: right;
