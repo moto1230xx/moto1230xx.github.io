@@ -168,3 +168,13 @@ blockquote cite {
 	width: 82%;
 	margin: 20px auto;
 }
+.linkpage-title{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+.link-site{
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+}
