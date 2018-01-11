@@ -164,3 +164,7 @@ blockquote cite {
     color: #888888;
     font-size: 0.9em;
 }
+.twitter-embed{
+	width: 82%;
+	margin: 0 auto;
+}
