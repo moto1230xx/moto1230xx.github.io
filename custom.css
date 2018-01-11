@@ -118,7 +118,6 @@ blockquote {
     font-style: italic;
     color: #464646;
     background: #f5f5f5;
-    font-size: 13px;
 }
 
 blockquote:before{
@@ -155,6 +154,7 @@ blockquote:after{
     margin: 10px 0;
     z-index: 3;
     line-height: 1.7;
+    font-size: 13px;
 }
 
 blockquote cite {
