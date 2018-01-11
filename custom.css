@@ -132,7 +132,7 @@ blockquote:before{
     content: "\f10d";
     font-family: FontAwesome;
     color: #FFF;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 30px;
     background: #ff785b;
 }
