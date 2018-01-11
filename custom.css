@@ -179,3 +179,6 @@ blockquote cite {
 	font-weight: bold;
 	text-align: right;
 }
+span.fit{
+	display: inline-block;
+}
