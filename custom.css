@@ -156,7 +156,7 @@ blockquote:after{
     line-height: 1.7;
 }
 blockquote p{
-    font-size: 13px;
+    font-size: 13px !important;
 }
 blockquote cite {
     display: block;
